@@ -1,0 +1,44 @@
+{
+  "game" : {
+    "-Kdl_wRRkn7nJxgz4B54" : {
+      "difficulty" : 8,
+      "course" : "Computer Science",
+      "image" : "game1.jpg",
+      "owner" : "Bruce Springstien",
+      "path" : "/img/game1.jpg",
+      "played" : "0",
+      "title" : "Country Game",
+      "type" : "Select"
+    },
+    "-KdleehAQm0HgVFYdkUo" : {
+      "difficulty" : 5,
+      "course" : "Economics",
+      "image" : "game2.jpg",
+      "owner" : "Taylor Swift",
+      "path" : "/img/game2.jpg",
+      "played" : "0",
+      "title" : "General Knowledge",
+      "type" : "Choice"
+    },
+    "-Kdlg3AqKNTnbhjRHT6b" : {
+      "difficulty" : 10,
+      "course" : "Politics",
+      "image" : "game3.jpg",
+      "owner" : "Tony Soprano",
+      "path" : "/img/game3.jpg",
+      "played" : "0",
+      "title" : "10 Bedroom Dreamhouse",
+      "type" : "Fill"
+    },
+    "-Kdlg9AqZBTrwtjRHT6b" : {
+      "difficulty" : 3,
+      "course" : "Biology",
+      "image" : "game4.jpg",
+      "owner" : "Tony Soprano",
+      "path" : "/img/game4.jpg",
+      "played" : "0",
+      "title" : "10 Bedroom Dreamhouse",
+      "type" : "Select"
+    }
+  }
+}
